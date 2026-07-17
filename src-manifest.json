@@ -1,0 +1,162 @@
+{
+  "generatedAt": "2026-07-17T08:33:39.508Z",
+  "sha": "c6cb5fe83f44733a7fb455575b1d38da40f9e0ec",
+  "files": [
+    "app/app.config.ts",
+    "app/app.css",
+    "app/app.routes.ts",
+    "app/app.spec.ts",
+    "app/app.ts",
+    "main.ts",
+    "styles.css"
+  ],
+  "srcRoot": "src",
+  "regions": [
+    {
+      "selector": "#a",
+      "label": "A",
+      "file": "app/app.html",
+      "line": 243,
+      "files": [
+        {
+          "file": "app/app.html",
+          "line": 243
+        }
+      ]
+    },
+    {
+      "selector": "#b",
+      "label": "B",
+      "file": "app/app.html",
+      "line": 237,
+      "files": [
+        {
+          "file": "app/app.html",
+          "line": 237
+        }
+      ]
+    },
+    {
+      "selector": "#c",
+      "label": "C",
+      "file": "app/app.html",
+      "line": 226,
+      "files": [
+        {
+          "file": "app/app.html",
+          "line": 226
+        }
+      ]
+    },
+    {
+      "selector": ".angular-logo",
+      "label": "Angular Logo",
+      "file": "app/app.html",
+      "line": 212,
+      "files": [
+        {
+          "file": "app/app.html",
+          "line": 212
+        }
+      ]
+    },
+    {
+      "selector": ".content",
+      "label": "Content",
+      "file": "app/app.html",
+      "line": 206,
+      "files": [
+        {
+          "file": "app/app.html",
+          "line": 206
+        }
+      ]
+    },
+    {
+      "selector": ".divider",
+      "label": "Divider",
+      "file": "app/app.html",
+      "line": 249,
+      "files": [
+        {
+          "file": "app/app.html",
+          "line": 249
+        }
+      ]
+    },
+    {
+      "selector": ".left-side",
+      "label": "Left Side",
+      "file": "app/app.html",
+      "line": 207,
+      "files": [
+        {
+          "file": "app/app.html",
+          "line": 207
+        }
+      ]
+    },
+    {
+      "selector": ".main",
+      "label": "Main",
+      "file": "app/app.html",
+      "line": 205,
+      "files": [
+        {
+          "file": "app/app.html",
+          "line": 205
+        }
+      ]
+    },
+    {
+      "selector": ".pill",
+      "label": "Pill",
+      "file": "app/app.html",
+      "line": 269,
+      "files": [
+        {
+          "file": "app/app.html",
+          "line": 269
+        }
+      ]
+    },
+    {
+      "selector": ".pill-group",
+      "label": "Pill Group",
+      "file": "app/app.html",
+      "line": 251,
+      "files": [
+        {
+          "file": "app/app.html",
+          "line": 251
+        }
+      ]
+    },
+    {
+      "selector": ".right-side",
+      "label": "Right Side",
+      "file": "app/app.html",
+      "line": 250,
+      "files": [
+        {
+          "file": "app/app.html",
+          "line": 250
+        }
+      ]
+    },
+    {
+      "selector": ".social-links",
+      "label": "Social Links",
+      "file": "app/app.html",
+      "line": 285,
+      "files": [
+        {
+          "file": "app/app.html",
+          "line": 285
+        }
+      ]
+    }
+  ],
+  "hasDom": true,
+  "lens": "ui"
+}
